@@ -8,14 +8,14 @@
 
 ### Critiques, Politics
 
-* 11-MAY-2017, "Is Jigsaw Dead? Not Quite.", David Blevins (Tomitribe) - [link](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/)
-* 08-MAY-2017, "Java Pre-Modular Syndrome", Peter Kriens (former OSGi lead) - [link](http://aqute.biz/2017/05/08/JPMS.html)
-* 05-MAY-2017, "An Open Letter to the JCP Executive Commitee", Mark Reinhold (Oracle) - [link](http://mreinhold.org/blog/to-the-jcp-ec) 
-* 02-MAY-2017, "Concerns with JPMS Spec and Jigsaw Implementation", Tim Ellison (IBM) - [link](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html)
-* 14-APR-2017, "Concerns Regarding Jigsaw", Scott Stark (Red Hat) and others - [link](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns)
-* SEP-2016, "Java 9, OSGi, and the Future of Modularity", Neil Barlett, Kai Hackbarth - [link](https://www.infoq.com/articles/java9-osgi-future-modularity)
-* JUN-2009, "Jigsaw and JSR 294 Interview", Mark Reinhold, Alex Buckley (Oracle) - [link](http://javaposse.com/java_posse_259_jigsaw_and_jsr_294_interview)
-* DEC-2008, "Project Jigsaw", Mark Reinhold (Oracle) - [link](http://mreinhold.org/blog/jigsaw)
+* 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
+* 08-MAY-2017, [Java Pre-Modular Syndrome](http://aqute.biz/2017/05/08/JPMS.html), Peter Kriens (former OSGi lead)
+* 05-MAY-2017, [An Open Letter to the JCP Executive Commitee](http://mreinhold.org/blog/to-the-jcp-ec), Mark Reinhold (Oracle)
+* 02-MAY-2017, [Concerns with JPMS Spec and Jigsaw Implementation](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html), Tim Ellison (IBM)
+* 14-APR-2017, [Concerns Regarding Jigsaw](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns), Scott Stark (Red Hat) and others
+* SEP-2016, [Java 9, OSGi, and the Future of Modularity](https://www.infoq.com/articles/java9-osgi-future-modularity), Neil Barlett, Kai Hackbarth
+* JUN-2009, [Jigsaw and JSR 294 Interview](http://javaposse.com/java_posse_259_jigsaw_and_jsr_294_interview), Mark Reinhold, Alex Buckley (Oracle)
+* DEC-2008, [Project Jigsaw](http://mreinhold.org/blog/jigsaw), Mark Reinhold (Oracle)
 
 ### Misc 
 
@@ -30,9 +30,9 @@
 
 ### Videos
 
-* "Introduction to Modular Development", Alan Bateman - [link](https://www.youtube.com/watch?v=eALw4P_0O4k)
-* "Advanced Modular Development", Mark Reinhold, Alan Bateman - [link](https://www.youtube.com/watch?v=WJHjKMIrbD0)
-* "Project Jigsaw: Under the Hood", Mark Reinhold - [link](https://www.youtube.com/watch?v=fxB9cVNcyZo)
-* "module system is like generics", Mark Reinhold -  [link](https://youtu.be/fxB9cVNcyZo?t=41m50s)
-* "What's NOT new in modular Java", Milen Dyankov - [link](https://www.youtube.com/watch?v=gHk_XxRKNiw)
+* [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle)
+* [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle)
+* [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle)
+* ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
+* [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
 
