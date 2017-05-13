@@ -17,6 +17,7 @@
 ### Critiques, Politics
 
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
+* 08-MAR-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) - stretch text-area at bottom for full comments
 * 08-MAY-2017, [Java Pre-Modular Syndrome](http://aqute.biz/2017/05/08/JPMS.html), Peter Kriens (former OSGi lead)
 * 05-MAY-2017, [An Open Letter to the JCP Executive Commitee](http://mreinhold.org/blog/to-the-jcp-ec), Mark Reinhold (Oracle)
 * 02-MAY-2017, [Concerns with JPMS Spec and Jigsaw Implementation](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html), Tim Ellison (IBM)
