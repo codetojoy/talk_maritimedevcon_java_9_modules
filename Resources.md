@@ -6,6 +6,14 @@
 * JPMS Spec Observers mailing list archives - [link](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/)
 * JSR 376 - [link](https://jcp.org/en/jsr/detail?id=376)
 
+### Videos
+
+* [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle)
+* [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle)
+* [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle)
+* ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
+* [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
+
 ### Critiques, Politics
 
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
@@ -27,12 +35,4 @@
 * Michael Easter's examples - [link](https://github.com/codetojoy/easter_eggs_for_java_9)
 * Michael Easter, code kata in Java 9 - [link](https://github.com/codetojoy/WarO_Java_9)
 * Michael Easter, code kata in OSGi - [link](https://github.com/codetojoy/WarO_Java_OSGi)
-
-### Videos
-
-* [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle)
-* [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle)
-* [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle)
-* ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
-* [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
 
