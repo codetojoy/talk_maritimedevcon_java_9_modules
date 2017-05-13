@@ -6,7 +6,7 @@
 * JPMS Spec Observers mailing list archives - [link](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/)
 * JSR 376 - [link](https://jcp.org/en/jsr/detail?id=376)
 
-### Videos
+### Videos / Clips
 
 * [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle)
 * [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle)
