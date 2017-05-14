@@ -17,9 +17,12 @@
 ### Critiques, Politics
 
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
+* 11-MAY-2017, [Top Ten Misconceptions tweet](https://twitter.com/trance1st/status/862598131350999040)
 * 08-MAR-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) - stretch text-area at bottom for full comments
+* 08-MAR-2017, [response to 'critical missing pieces'](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000879.html) by Mark Reinhold (Oracle)
 * 08-MAY-2017, [Java Pre-Modular Syndrome](http://aqute.biz/2017/05/08/JPMS.html), Peter Kriens (former OSGi lead)
 * 05-MAY-2017, [An Open Letter to the JCP Executive Commitee](http://mreinhold.org/blog/to-the-jcp-ec), Mark Reinhold (Oracle)
+* 05-MAY-2017, [critical missing pieces](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html) by David Lloyd (Red Hat)
 * 02-MAY-2017, [Concerns with JPMS Spec and Jigsaw Implementation](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html), Tim Ellison (IBM)
 * 14-APR-2017, [Concerns Regarding Jigsaw](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns), Scott Stark (Red Hat) and others
 * SEP-2016, [Java 9, OSGi, and the Future of Modularity](https://www.infoq.com/articles/java9-osgi-future-modularity), Neil Barlett, Kai Hackbarth
