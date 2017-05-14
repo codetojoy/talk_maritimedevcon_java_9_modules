@@ -30,9 +30,10 @@
 ### Ancient Artifacts
 
 * JUN-2009, [Java Posse: Jigsaw and JSR 294 Interview](http://javaposse.com/java_posse_259_jigsaw_and_jsr_294_interview), Mark Reinhold, Alex Buckley (Oracle)
-    * _white elephant in the room is OSGi_, Dick Wall near 4m20s 
-    * _some of the opinions coming out of that [OSGi] community don't agree with some of our requirements_, Mark Reinhold near 30m40s
-    * _if OSGi had everything we needed, we wouldn't be doing Jigsaw_, Mark Reinhold near 34m30s
+    * (paraphrased) _White elephant in the room is OSGi_, Dick Wall near 4m20s 
+    * (paraphrased) _Some of the opinions coming out of that [OSGi] community don't agree with some of our requirements_, Mark Reinhold near 30m40s
+    * (paraphrased) _If OSGi had everything we needed, we wouldn't be doing Jigsaw_, Mark Reinhold near 34m30s
+    * (paraphrased) _People at the center of [OSGi community] have come to understand, even if we disagree. But there is a crowd in the blogsphere that ... at the instant of any disagreement, get extremely defensive._, Mark Reinhold near 36m25s 
 * DEC-2008, [Project Jigsaw blog post](http://mreinhold.org/blog/jigsaw), Mark Reinhold (Oracle)
 * APR-2008, [Java Posse: OSGi](http://javaposse.com/java_posse_245_os_gi_interview), Peter Kriens, B.J. Hargrave
 
