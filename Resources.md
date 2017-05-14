@@ -27,7 +27,8 @@
 * 14-APR-2017, [Concerns Regarding Jigsaw](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns), Scott Stark (Red Hat) and others
 * SEP-2016, [Java 9, OSGi, and the Future of Modularity](https://www.infoq.com/articles/java9-osgi-future-modularity), Neil Barlett, Kai Hackbarth
 * JUN-2009, [Jigsaw and JSR 294 Interview](http://javaposse.com/java_posse_259_jigsaw_and_jsr_294_interview), Mark Reinhold, Alex Buckley (Oracle)
-* DEC-2008, [Project Jigsaw](http://mreinhold.org/blog/jigsaw), Mark Reinhold (Oracle)
+* DEC-2008, [Java Posse: Project Jigsaw](http://mreinhold.org/blog/jigsaw), Mark Reinhold (Oracle)
+* APR-2008, [Java Posse: OSGi](http://javaposse.com/java_posse_245_os_gi_interview), Peter Kriens, B.J. Hargrave
 
 ### Misc 
 
