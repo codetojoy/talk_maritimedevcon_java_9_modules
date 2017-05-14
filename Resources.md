@@ -29,6 +29,8 @@
 
 ### Ancient Artifacts
 
+Quotes below are intended to illustrate that this has been a long-term discussion; the intent is not to 'take sides'.
+
 * JUN-2009, [Java Posse: Jigsaw and JSR 294 Interview](http://javaposse.com/java_posse_259_jigsaw_and_jsr_294_interview), Mark Reinhold, Alex Buckley (Oracle)
     * (paraphrased) _White elephant in the room is OSGi_, Dick Wall near 4m20s 
     * (paraphrased) _Some of the opinions coming out of that [OSGi] community don't agree with some of our requirements_, Mark Reinhold near 30m40s
