@@ -1,10 +1,11 @@
 
 ### Sites
 
-* Project Jigsaw - [link](http://openjdk.java.net/projects/jigsaw/)
-* Project Jigsaw mailing list archives - [link](http://mail.openjdk.java.net/pipermail/jigsaw-dev/)
-* JPMS Spec Observers mailing list archives - [link](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/)
-* JSR 376 - [link](https://jcp.org/en/jsr/detail?id=376)
+* [Project Jigsaw](http://openjdk.java.net/projects/jigsaw/)
+* [Project Jigsaw mailing list archives](http://mail.openjdk.java.net/pipermail/jigsaw-dev/)
+* [JPMS Spec Observers mailing list archives](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/)
+* [JSR 376](https://jcp.org/en/jsr/detail?id=376)
+* obligatory [Wikipedia entry](https://en.wikipedia.org/wiki/Java_Platform_Module_System)
 
 ### Videos / Clips
 
