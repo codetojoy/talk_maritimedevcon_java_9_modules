@@ -38,6 +38,8 @@ Quotes below are intended to illustrate that this has been a long-term discussio
     * (paraphrased) _People at the center of [OSGi community] have come to understand, even if we disagree. But there is a crowd in the blogsphere that ... at the instant of any disagreement, get extremely defensive._, Mark Reinhold near 36m25s 
 * DEC-2008, [Project Jigsaw blog post](http://mreinhold.org/blog/jigsaw), Mark Reinhold (Oracle)
 * APR-2008, [Java Posse: OSGi](http://javaposse.com/java_posse_245_os_gi_interview), Peter Kriens, B.J. Hargrave
+    * (paraphrased) What is OSGi? _Three layers: a modular component system ... a lifecycle for dynamic management ... and a service-oriented programming model_, B.J. Hargrave near 1m45s
+    * (paraphrased) _The Idea is to create a system where applicatons from different vendors ... can collaborate without prior agreement between the parties_, Peter Kriens near 3m00s
 
 ### Misc 
 
