@@ -11,9 +11,9 @@
 
 * [Migrating to Modules](https://www.youtube.com/watch?v=czhSo8rotC4), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk), Mark Reinhold (Oracle) at Devoxx UK, May 2017
-* [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle)
-* [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle)
-* [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle)
+* [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle) at Devoxx Belgium, Nov 2016
+* [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle) at Devoxx Belgium, Nov 2016
+* [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle) at Devoxx Belgium, Nov 2016
 * ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
 * [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
 
