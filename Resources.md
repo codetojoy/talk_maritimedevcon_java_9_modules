@@ -9,6 +9,7 @@
 
 ### Videos / Clips
 
+* [Ask the Architect](https://www.youtube.com/watch?v=ac1v5kF_FGs), Mark Reinhold (Oracle) and Dan Hardiker (Adaptivist) at Devoxx UK, May 2017
 * [Migrating to Modules](https://www.youtube.com/watch?v=czhSo8rotC4), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle) at Devoxx Belgium, Nov 2016
