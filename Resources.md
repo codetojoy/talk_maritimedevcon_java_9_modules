@@ -9,6 +9,8 @@
 
 ### Videos / Clips
 
+* [Interview with Robert Scholte](https://www.youtube.com/watch?v=rbe_MM1A1Dk)
+* [Interview with Rémi Forax](https://www.youtube.com/watch?v=fiFzdE_U7UA)
 * [Ask the Architect](https://www.youtube.com/watch?v=ac1v5kF_FGs), Mark Reinhold (Oracle) and Dan Hardiker (Adaptivist) at Devoxx UK, May 2017
 * [Migrating to Modules](https://www.youtube.com/watch?v=czhSo8rotC4), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk), Mark Reinhold (Oracle) at Devoxx UK, May 2017
@@ -18,8 +20,9 @@
 * ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
 * [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
 
-### Critiques, Politics
+### Critiques, Politics, Discussion
 
+* 18-MAY-2017, [Allow illegal reflective access by default in JDK 9](http://mail.openjdk.java.net/pipermail/jigsaw-dev/2017-May/012673.html), Mark Reinhold (Oracle)
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
 * 11-MAY-2017, [Top Ten Misconceptions tweet](https://twitter.com/trance1st/status/862598131350999040)
 * 08-MAR-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) - stretch text-area at bottom for full comments
