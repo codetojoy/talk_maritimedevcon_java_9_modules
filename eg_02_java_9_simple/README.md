@@ -1,15 +1,10 @@
 
 ### Idea
 
-* `net.codetojoy.service` depends on `net.codetojoy.db`
-* `net.codetojoy.db` module defined [here](https://github.com/codetojoy/easter_eggs_for_java_9/blob/master/egg_02_Basic_Dependency/src/net.codetojoy.db/module-info.java)
-* `net.codetojoy.service` module defined [here](https://github.com/codetojoy/easter_eggs_for_java_9/blob/master/egg_02_Basic_Dependency/src/net.codetojoy.service/module-info.java)
+* `com.acme.bids.app` depends on `com.acme.bids.service`
+* `com.acme.bids.service` depends on `com.acme.bids.db`
+* `net.codetojoy.app` module defined [here](https://github.com/codetojoy/talk_maritimedevcon_java_9_modules//blob/master/egg_02_java_9_simple/src/com.acme.bids.app/module-info.java)
 
 ### Execution Steps
 
-* compile, list contents of modules, and run some `main` entry points:
-* `./compile.sh`
-* `./list_net.codetojoy.db.sh`
-* `./list_net.codetojoy.service.sh`
-* `./run_UserDao.sh`
-* `./run_UserService.sh`
+* `./build_and_run.sh`
