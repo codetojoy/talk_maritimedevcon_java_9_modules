@@ -2,19 +2,16 @@
 ### Idea
 
 * normal db module
-    * confirmed b167 and b169
     * can create exported public type User
-    * cannot create internal UserDaoImpl
+    * *cannot* create internal UserDaoImpl
 
-* `net.codetojoy.service` depends on `net.codetojoy.db`
-* `net.codetojoy.db` module defined [here](https://github.com/codetojoy/easter_eggs_for_java_9/blob/master/egg_02_Basic_Dependency/src/net.codetojoy.db/module-info.java)
-* `net.codetojoy.service` module defined [here](https://github.com/codetojoy/easter_eggs_for_java_9/blob/master/egg_02_Basic_Dependency/src/net.codetojoy.service/module-info.java)
+* main code [here](https://github.com/codetojoy/talk_maritimedevcon_java_9_modules/blob/master/eg_03_1_java_9_open_fail/src/com.acme.bids.service/com/acme/bids/service/impl/UserServiceImpl.java)
+
+### Validation
+
+* 20-MAY-2017 - confirmed b170
+* confirmed, b169, b167
 
 ### Execution Steps
 
-* compile, list contents of modules, and run some `main` entry points:
-* `./compile.sh`
-* `./list_net.codetojoy.db.sh`
-* `./list_net.codetojoy.service.sh`
-* `./run_UserDao.sh`
-* `./run_UserService.sh`
+* `./build_and_run.sh`
