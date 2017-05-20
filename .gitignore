@@ -4,3 +4,4 @@
 **/jars
 **/mjars
 **/.gradle
+**/bids.runtime
