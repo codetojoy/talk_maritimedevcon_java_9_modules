@@ -1,5 +1,6 @@
 **/build
 **/lib
 **/mlib
-jars
+**/jars
+**/mjars
 **/.gradle
