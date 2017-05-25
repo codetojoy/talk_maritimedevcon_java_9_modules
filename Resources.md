@@ -57,7 +57,7 @@ Quotes below are intended to illustrate that this has been a long-term discussio
 ### Code
 
 * [AdoptOpenJDK Java 9 resources](https://github.com/AdoptOpenJDK/jdk9-jigsaw/blob/master/Java-9-Resources.md)
-* Michael Easter's examples - [link](https://github.com/codetojoy/easter_eggs_for_java_9)
-* Michael Easter, code kata in Java 9 - [link](https://github.com/codetojoy/WarO_Java_9)
-* Michael Easter, code kata in OSGi - [link](https://github.com/codetojoy/WarO_Java_OSGi)
+* Michael Easter's [examples](https://github.com/codetojoy/easter_eggs_for_java_9)
+* Michael Easter, [code kata in Java 9](https://github.com/codetojoy/WarO_Java_9)
+* Michael Easter, [code kata in OSGi](https://github.com/codetojoy/WarO_Java_OSGi)
 
