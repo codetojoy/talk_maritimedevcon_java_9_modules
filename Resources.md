@@ -22,7 +22,7 @@
 
 ### Critiques, Politics, Discussion
 
-* 24-MAY-2017, [Expert Group minutes, 5/22](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-22)
+* 25-MAY-2017, [Expert Group minutes, 5/22](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-22)
 * 24-MAY-2017, [Expert Group minutes, 5/18](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-18)
 * 18-MAY-2017, [Allow illegal reflective access by default in JDK 9](http://mail.openjdk.java.net/pipermail/jigsaw-dev/2017-May/012673.html), Mark Reinhold (Oracle)
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
