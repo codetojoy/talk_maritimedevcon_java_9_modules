@@ -12,13 +12,14 @@
 * [Interview with Robert Scholte](https://www.youtube.com/watch?v=rbe_MM1A1Dk)
 * [Interview with Rémi Forax](https://www.youtube.com/watch?v=fiFzdE_U7UA)
 * [Ask the Architect](https://www.youtube.com/watch?v=ac1v5kF_FGs), Mark Reinhold (Oracle) and Dan Hardiker (Adaptivist) at Devoxx UK, May 2017
+* ["We're not going to put what could risk becoming the EJB 2.0 of module systems"](https://www.youtube.com/watch?v=ac1v5kF_FGs&feature=youtu.be&t=5m40s), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Migrating to Modules](https://www.youtube.com/watch?v=czhSo8rotC4), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk), Mark Reinhold (Oracle) at Devoxx UK, May 2017
 * [Introduction to Modular Development](https://www.youtube.com/watch?v=eALw4P_0O4k), Alan Bateman (Oracle) at Devoxx Belgium, Nov 2016
 * [Advanced Modular Development](https://www.youtube.com/watch?v=WJHjKMIrbD0) Mark Reinhold, Alan Bateman (Oracle) at Devoxx Belgium, Nov 2016
 * [Project Jigsaw: Under the Hood](https://www.youtube.com/watch?v=fxB9cVNcyZo), Mark Reinhold (Oracle) at Devoxx Belgium, Nov 2016
 * ["if this reminds you of the rationale for generics ..."](https://youtu.be/fxB9cVNcyZo?t=41m50s), Mark Reinhold (Oracle)
-* [What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) 
+* [Video - What's NOT new in modular Java](https://www.youtube.com/watch?v=gHk_XxRKNiw), Milen Dyankov (Liferay) [slides](https://www.slideshare.net/MilenDyankov1/whats-not-new-in-modular-java)
 
 ### Critiques, Politics, Discussion
 
@@ -53,6 +54,7 @@ Quotes below are intended to illustrate that this has been a long-term discussio
 ### Misc 
 
 * StackOverflow [question on reflection for crypto class](http://stackoverflow.com/questions/38505237) as mentioned [by Mark Reinhold](https://www.youtube.com/watch?v=fxB9cVNcyZo&feature=youtu.be&t=18m18s)
+* _You can pry OSGi from my cold, dead hands!_ - whiteboard at Devoxx Belgium, 2015. [slide 5 in deck](https://www.slideshare.net/MilenDyankov1/whats-not-new-in-modular-java) by Milen Dyankov
  
 ### Code
 
