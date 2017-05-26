@@ -23,6 +23,7 @@
 
 ### Critiques, Politics, Discussion
 
+* 26-MAY-2017, [JSR 376 Expert Group minutes, 5/23](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23)
 * 25-MAY-2017, [JSR 376 Expert Group minutes, 5/22](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-22)
 * 24-MAY-2017, [JSR 376 Expert Group minutes, 5/18](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-18)
 * 18-MAY-2017, [Allow illegal reflective access by default in JDK 9](http://mail.openjdk.java.net/pipermail/jigsaw-dev/2017-May/012673.html), Mark Reinhold (Oracle)
