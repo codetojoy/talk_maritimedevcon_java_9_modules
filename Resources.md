@@ -55,7 +55,7 @@ Quotes below are intended to illustrate that this has been a long-term discussio
 
 * StackOverflow [question on reflection for crypto class](http://stackoverflow.com/questions/38505237) as mentioned [by Mark Reinhold](https://www.youtube.com/watch?v=fxB9cVNcyZo&feature=youtu.be&t=18m18s)
 * _You can pry OSGi from my cold, dead hands!_ - whiteboard at Devoxx Belgium, 2015. [slide 5 in deck](https://www.slideshare.net/MilenDyankov1/whats-not-new-in-modular-java) by Milen Dyankov
-* _Many people claim OSGi is hard without acknowledging that modularizing applications is the hard part. ... JSR 376 will demonstrate that OSGi was just the messenger and actually not the cause. _ - Peter Kriens. [slide 29 in deck](https://www.slideshare.net/MilenDyankov1/whats-not-new-in-modular-java) by Milen Dyankov, originally (?) in comments of [this article](https://www.infoq.com/news/2015/10/java-state-module-system) from Oct 2015
+* _Many people claim OSGi is hard without acknowledging that modularizing applications is the hard part. ... JSR 376 will demonstrate that OSGi was just the messenger and actually not the cause._ - Peter Kriens. [slide 29 in deck](https://www.slideshare.net/MilenDyankov1/whats-not-new-in-modular-java) by Milen Dyankov, originally (?) in comments of [this article](https://www.infoq.com/news/2015/10/java-state-module-system) from Oct 2015
  
 ### Code
 
