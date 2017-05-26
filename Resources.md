@@ -23,6 +23,8 @@
 
 ### Critiques, Politics, Discussion
 
+* 26-MAY-2017, [Jigsaw EG patching things up](https://jaxenter.com/jigsaw-expert-group-meeting-minutes-134355.html)
+* 26-MAY-2017, [Building Consensus on JSR 376](https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system/)
 * 26-MAY-2017, [JSR 376 Expert Group minutes, 5/23](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23)
 * 25-MAY-2017, [JSR 376 Expert Group minutes, 5/22](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-22)
 * 24-MAY-2017, [JSR 376 Expert Group minutes, 5/18](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-18)
