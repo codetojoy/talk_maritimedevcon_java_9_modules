@@ -17,3 +17,4 @@
 
 * `./build_link_run.sh`
 * examine and celebrate the `bids.runtime` directory
+* optional step: `./bids.runtime/bin/java --list-modules`
