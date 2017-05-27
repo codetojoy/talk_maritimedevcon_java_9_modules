@@ -20,7 +20,7 @@ mkdir -p mjars
 cd mjars
 
 wget http://central.maven.org/maven2/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar 
-mv spring-context-4.3.8.RELEASE.jar spring.context.jar
+mv spring-context-4.3.8.RELEASE.jar spring.context438.RELEASE.jar
 
 cd ..
 echo "Ready."

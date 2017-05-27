@@ -1,19 +1,24 @@
 
 package com.acme.bids.app;
 
-import com.acme.bids.db.api.UserDao;
 import com.acme.bids.service.api.UserService;
 
 import org.springframework.context.ApplicationContext;
 
 public class App {
+    // spoof field to introduce a dependency
     private ApplicationContext applicationContext = null;
 
-    private UserDao userDao = new UserDao();
     private UserService userService = new UserService();
 
+    private void run() {
+        System.out.println("App: process user 'Mozart'");
+        userService.processUser("Mozart");
+        System.out.println("App: done.");
+    }
+
     public static void main(String[] args) {
-        System.out.println("TRACER : hello from App");
-        System.out.println("TRACER : using " + ApplicationContext.class.getName());
+        App app = new App();
+        app.run();
     }
 }

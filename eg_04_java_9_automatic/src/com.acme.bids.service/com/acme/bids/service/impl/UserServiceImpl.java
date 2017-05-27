@@ -9,15 +9,16 @@ import java.rmi.RemoteException;
 public class UserServiceImpl {
     private UserDao userDao = null;
 
-    public void setUserDao(UserDao userDao) {
-        this.userDao = userDao;
+    public UserServiceImpl() {
+        userDao = new UserDao();
+        System.out.println("created com.acme.bids.service.impl.UserServiceImpl");
     }
 
     public void processUser(String name) {
         User user = userDao.findUserByName(name);
-        System.out.println("TRACER processing : " + user.getName());
     }
- 
+
+    // spoof method to introduce dependency on java.rmi.RemoteException
     public void getUsersFromLegacy() {
         try {
             if(true) throw new RemoteException();
@@ -26,7 +27,6 @@ public class UserServiceImpl {
     }
 
     public static void main(String[] args) {
-        System.out.println("TRACER : hello from UserServiceImpl");
+        System.out.println("hello from UserServiceImpl");
     }
 }
-
