@@ -10,3 +10,6 @@
 ### Execution Steps
 
 * `./build_and_run.sh`
+* note: it is also instructive to run `jdeps` on the jars we intend to modularize
+    * assuming `eg_01_java_8` is compiled:
+    * `jdeps --list-reduced-deps ../eg_01_java_8/lib/com.acme.bids.db.jar`
