@@ -8,5 +8,5 @@ public class UserDao {
 
     public User findUserByName(String name) {
         return userDaoImpl.findUserByName(name);
-    } 
+    }
 }
