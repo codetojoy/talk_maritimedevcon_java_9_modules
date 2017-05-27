@@ -10,7 +10,7 @@ jar --create --file=mlib/com.acme.bids.db@1.0.jar \
 
 jar --create --file=mlib/com.acme.bids.service@1.0.jar \
 --module-version=1.0 \
---main-class=com.acme.bids.service.api.UserService \
+--main-class=com.acme.bids.service.impl.UserServiceImpl \
 -C build/modules/com.acme.bids.service . 
 
 jar --create --file=mlib/com.acme.bids.app@1.0.jar \

@@ -1,15 +1,19 @@
 
 package com.acme.bids.app;
 
-import com.acme.bids.db.api.UserDao;
 import com.acme.bids.service.api.UserService;
 
 public class App {
-    private UserDao userDao = new UserDao();
     private UserService userService = new UserService();
 
+    private void run() {
+        System.out.println("App: process user 'Mozart'");
+        userService.processUser("Mozart");
+        System.out.println("App: done.");
+    }
+
     public static void main(String[] args) {
-        System.out.println("TRACER : hello from App");
+        App app = new App();
+        app.run();
     }
 }
-
