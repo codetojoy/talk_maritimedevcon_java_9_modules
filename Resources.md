@@ -6,6 +6,7 @@
 * [JPMS Spec Observers mailing list archives](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/)
 * [JSR 376](https://jcp.org/en/jsr/detail?id=376)
 * obligatory [Wikipedia entry](https://en.wikipedia.org/wiki/Java_Platform_Module_System)
+* [Jigsaw Spec](http://openjdk.java.net/projects/jigsaw/spec)
 
 ### Videos / Clips
 
@@ -29,10 +30,12 @@
 * 25-MAY-2017, [JSR 376 Expert Group minutes, 5/22](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-22)
 * 24-MAY-2017, [JSR 376 Expert Group minutes, 5/18](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-18)
 * 18-MAY-2017, [Allow illegal reflective access by default in JDK 9](http://mail.openjdk.java.net/pipermail/jigsaw-dev/2017-May/012673.html), Mark Reinhold (Oracle)
+* 16-MAY-2017, [JSR 376 Ballot](https://medium.com/codefx-weekly/jsr-376-ballot-and-automatic-modules-edc75b148493), Nicolai Parlog
 * 11-MAY-2017, [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/), David Blevins (Tomitribe)
 * 11-MAY-2017, [Top Ten Misconceptions tweet](https://twitter.com/trance1st/status/862598131350999040)
-* 08-MAR-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) - stretch text-area at bottom for full comments
-* 08-MAR-2017, [response to 'critical missing pieces'](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000879.html) by Mark Reinhold (Oracle)
+* 09-MAY-2017, [JPMS automatic modules](http://blog.joda.org/2017/05/java-se-9-jpms-automatic-modules.html), by Stephen Colebourne
+* 08-MAY-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) - stretch text-area at bottom for full comments
+* 08-MAY-2017, [response to 'critical missing pieces'](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000879.html) by Mark Reinhold (Oracle)
 * 08-MAY-2017, [Java Pre-Modular Syndrome](http://aqute.biz/2017/05/08/JPMS.html), Peter Kriens (former OSGi lead)
 * 05-MAY-2017, [An Open Letter to the JCP Executive Commitee](http://mreinhold.org/blog/to-the-jcp-ec), Mark Reinhold (Oracle)
 * 05-MAY-2017, [critical missing pieces](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000874.html) by David Lloyd (Red Hat)
