@@ -19,6 +19,6 @@
 * [2004-2008 Ford F-150 photographed in Washington, D.C., USA.](https://commons.wikimedia.org/wiki/File:Ford_F-150_regular_cab_long_bed.jpg) by IFCAR via public domain
 * 10-MAY-2017, [Java modularity's future takes a hit ...](http://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Java-modularitys-future-takes-a-hit-a-Project-Jigsaw-JPMS-is-voted-down) by Cameron MacKenzie, ServerSide via nominative use
 * 08-MAY-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) via nominative use. NOTE: stretch text-area at bottom for full comments
-* [Scream](http://bit.ly/2rsCYb7) by [its*me*red](https://www.flickr.com/photos/red_jelly/) via [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* [Scream](http://bit.ly/2rsCYb7) by [its\*me\*red](https://www.flickr.com/photos/red_jelly/) via [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 * [Jigsaw Puzzle](http://www.publicdomainpictures.net/view-image.php?image=73593&picture=) via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
