@@ -20,5 +20,9 @@
 * 10-MAY-2017, [Java modularity's future takes a hit ...](http://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Java-modularitys-future-takes-a-hit-a-Project-Jigsaw-JPMS-is-voted-down) by Cameron MacKenzie, ServerSide via nominative use
 * 08-MAY-2017, [JCP Public Review Ballot results](https://jcp.org/en/jsr/results?id=5959) via nominative use. NOTE: stretch text-area at bottom for full comments
 * [Scream](http://bit.ly/2rsCYb7) by [its\*me\*red](https://www.flickr.com/photos/red_jelly/) via [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* "No with conditions" in [Is Jigsaw Dead? Not Quite.](http://www.tomitribe.com/blog/2017/05/is-jigsaw-dead-not-quite/) by David Blevins, Tomatribe
+* "Not yet" in [Martin Verburg on the JCP EC "No" Vote for JPMS](https://www.infoq.com/podcasts/martijn-verburg?utm_source=podcasts_about_Jigsaw&utm_medium=link&utm_campaign=Jigsaw)
 * [Jigsaw Puzzle](http://www.publicdomainpictures.net/view-image.php?image=73593&picture=) via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Building Consensus on JSR 376: Java Platform Module System](https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system/) by Tim Ellison (IBM)
+* [He wanted to ensure that people were minimally happy.](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23)
 
