@@ -24,5 +24,5 @@
 * "Not yet" in [Martin Verburg on the JCP EC "No" Vote for JPMS](https://www.infoq.com/podcasts/martijn-verburg?utm_source=podcasts_about_Jigsaw&utm_medium=link&utm_campaign=Jigsaw)
 * [Jigsaw Puzzle](http://www.publicdomainpictures.net/view-image.php?image=73593&picture=) via [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Building Consensus on JSR 376: Java Platform Module System](https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system/) by Tim Ellison (IBM)
-* [He wanted to ensure that people were minimally happy.](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23)
+* [He wanted to ensure that people were minimally happy.](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23) JPMS (JSR 376) Expert Group Minutes: 2017/5/23
 
