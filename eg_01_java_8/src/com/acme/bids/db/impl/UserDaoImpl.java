@@ -9,10 +9,6 @@ public class UserDaoImpl {
     // spoof field to introduce dependency on java.sql.DriverManager
     private DriverManager driverManager = null;
 
-    public UserDaoImpl() {
-        System.out.println("created com.acme.bids.db.impl.UserDaoImpl");
-    }
-
     public User findUserByName(String name) {
         // spoof the database
         User user = new User();

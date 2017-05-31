@@ -7,12 +7,7 @@ import com.acme.bids.db.api.UserDao;
 import java.rmi.RemoteException;
 
 public class UserServiceImpl {
-    private UserDao userDao = null;
-
-    public UserServiceImpl() {
-        userDao = new UserDao();
-        System.out.println("created com.acme.bids.service.impl.UserServiceImpl");
-    }
+    private UserDao userDao = new UserDao();
 
     public void processUser(String name) {
         User user = userDao.findUserByName(name);
