@@ -24,6 +24,7 @@
 
 ### Critiques, Politics, Discussion
 
+* 30-MAY-2017, [Proposed schedule change for JDK 9](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html)
 * 26-MAY-2017, [Jigsaw EG patching things up](https://jaxenter.com/jigsaw-expert-group-meeting-minutes-134355.html)
 * 26-MAY-2017, [Building Consensus on JSR 376](https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system/)
 * 26-MAY-2017, [JSR 376 Expert Group minutes, 5/23](http://openjdk.java.net/projects/jigsaw/spec/minutes/2017-05-23)
