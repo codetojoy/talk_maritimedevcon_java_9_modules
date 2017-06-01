@@ -1,0 +1,23 @@
+language: java
+sudo: false
+dist: trusty
+
+notifications:
+    email: false
+
+jdk:
+  - oraclejdk9
+
+addons:
+  apt:
+    packages:
+      - oracle-java9-installer
+
+install:
+- find . -name "*.sh" -exec chmod u+x {} \;
+# this is using Java 9 but that's OK for our purposes here
+- echo "------------------ eg_01_java_8"
+- cd eg_01_java_8
+- ./build_and_run.sh
+
+- cd ..
