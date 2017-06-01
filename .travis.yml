@@ -24,11 +24,11 @@ install:
 - echo "------------------ eg_02_java_9_simple"
 - cd ../eg_02_java_9_simple
 - ./build_and_run.sh
-- echo "------------------ eg_03_1_open_fail"
-- cd ../eg_03_1_open_fail
+- echo "------------------ eg_03_1_java_9_open_fail"
+- cd ../eg_03_1_java_9_open_fail
 - ./build_and_run.sh
-- echo "------------------ eg_03_2_open_module"
-- cd ../eg_03_2_open_module
+- echo "------------------ eg_03_2_java_9_open_module"
+- cd ../eg_03_2_java_9_open_module
 - ./build_and_run.sh
 - echo "------------------ eg_03_3_java_9_command_line"
 - cd ../eg_03_3_java_9_command_line
