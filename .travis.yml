@@ -30,5 +30,14 @@ install:
 - echo "------------------ eg_03_2_open_module"
 - cd ../eg_03_2_open_module
 - ./build_and_run.sh
+- echo "------------------ eg_03_3_java_9_command_line"
+- cd ../eg_03_3_java_9_command_line
+- ./build_and_run.sh
+- echo "------------------ eg_04_java_9_automatic_module"
+- cd ../eg_04_java_9_automatic_module
+- ./prepare_build_run.sh
+- echo "------------------ eg_05_java_9_jlink"
+- cd ../eg_05_java_9_jlink
+- ./build_link_run.sh
 
 - cd ..
