@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/codetojoy/talk_maritime_devcon_java_9_modules.svg?branch=master)](https://travis-ci.org/codetojoy/talk_maritime_devcon_java_9_modules)
+[![Build Status](https://travis-ci.org/codetojoy/talk_maritimedevcon_java_9_modules.svg?branch=master)](https://travis-ci.org/codetojoy/talk_maritimedevcon_java_9_modules)
 
 ### Java 9 Modules For Busy Developers
 
