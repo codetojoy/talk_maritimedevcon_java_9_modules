@@ -21,5 +21,8 @@ install:
 - echo "------------------ eg_01_java_8"
 - cd eg_01_java_8
 - ./build_and_run.sh
+- echo "------------------ eg_02_java_9_simple"
+- cd ../eg_02_java_9_simple"
+- ./build_and_run.sh
 
 - cd ..
