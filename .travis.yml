@@ -33,8 +33,8 @@ install:
 - echo "------------------ eg_03_3_java_9_command_line"
 - cd ../eg_03_3_java_9_command_line
 - ./build_and_run.sh
-- echo "------------------ eg_04_java_9_automatic_module"
-- cd ../eg_04_java_9_automatic_module
+- echo "------------------ eg_04_java_9_automatic"
+- cd ../eg_04_java_9_automatic
 - ./prepare_build_run.sh
 - echo "------------------ eg_05_java_9_jlink"
 - cd ../eg_05_java_9_jlink
