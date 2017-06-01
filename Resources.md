@@ -17,6 +17,7 @@
 
 ### Critiques, Politics, Discussion
 
+* 30-MAY-2017, [Proposed schedule change for JDK 9](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html)
 * 26-MAY-2017, [Building Consensus on JSR 376](https://developer.ibm.com/javasdk/2017/05/26/building-consensus-jsr-376-java-platform-module-system/)
 * 18-MAY-2017, [Allow illegal reflective access by default in JDK 9](http://mail.openjdk.java.net/pipermail/jigsaw-dev/2017-May/012673.html), Mark Reinhold (Oracle)
 * 16-MAY-2017, [JSR 376 Ballot](https://medium.com/codefx-weekly/jsr-376-ballot-and-automatic-modules-edc75b148493), Nicolai Parlog
