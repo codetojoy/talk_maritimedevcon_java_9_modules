@@ -24,6 +24,9 @@ install:
 - echo "------------------ eg_02_java_9_simple"
 - cd ../eg_02_java_9_simple
 - ./build_and_run.sh
+- ./optional_list_modules.sh
+- ./optional_run_UserDao.sh
+- ./optional_run_UserService.sh
 - echo "------------------ eg_03_1_java_9_open_fail"
 - cd ../eg_03_1_java_9_open_fail
 - ./build_and_run.sh
