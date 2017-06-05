@@ -19,4 +19,4 @@
     * June 7, 2017: revised spec submitted, voting period begins for second Executive Committee vote on JSR 376
     * June 22, 2017: *if all goes well*, JDK 9 initial Release Candidate
     * June 26, 2017: voting period ends for 2nd EC vote
-    * Sept 21, 2017: *if all goes well*, JDK 9 GA release 
+    * Sept 21, 2017: *if all goes well*, JDK 9 General Availability release 
