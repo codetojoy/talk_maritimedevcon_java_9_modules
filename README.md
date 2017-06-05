@@ -13,7 +13,7 @@
 
 ### Post-Talk Notes
 
-* Note that reflection is allowed in Jigsaw, but it must be explicitly granted ([example here](https://github.com/codetojoy/talk_maritimedevcon_java_9_modules/blob/master/eg_03_2_java_9_open_module/src/com.acme.bids.db/module-info.java)). There wasn't time to cover this aspect. 
+* Note that reflection is allowed in Jigsaw, but it must be explicitly granted ([example here](https://github.com/codetojoy/talk_maritimedevcon_java_9_modules/blob/master/eg_03_2_java_9_open_module/src/com.acme.bids.db/module-info.java)). There wasn't time to cover this aspect, and there was a question about this afterwards. 
 * Important Dates:
     * from [this post](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html) by Mark Reinhold
     * June 7, 2017: revised spec submitted, voting period begins for second Executive Committee vote on JSR 376
