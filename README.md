@@ -9,7 +9,8 @@
 * Slide-by-slide [Credits & Sources](Slides.md)
 * [Basic Resources](Resources.md) for videos, code, etc
 * [Exhaustive List of Resources](ExhaustiveResources.md) for videos, code, etc
-* session info: [Maritime DevCon](https://maritimedevcon.ca/session/java-9-modules-busy-developers/)
+* [Session description](https://maritimedevcon.ca/session/java-9-modules-busy-developers/)
+* Please feel free to contact: codetojoy @t gmail
 
 ### Post-Talk Notes
 
