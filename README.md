@@ -3,7 +3,7 @@
 
 ### Important Dates
 
-* from [this post](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html) by Mark Reinhold and the [JSR 376 page](https://jcp.org/en/jsr/detail?id=376)
+* from what I gather from [this post](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html) by Mark Reinhold and the [JSR 376 page](https://jcp.org/en/jsr/detail?id=376)
     * June 7, 2017: revised spec submitted
     * June 13, 2017: voting period **begins** for second Executive Committee vote on JSR 376
     * June 22, 2017: JDK 9 initial Release Candidate
