@@ -1,6 +1,4 @@
 
-[![Build Status](https://travis-ci.org/codetojoy/talk_maritimedevcon_java_9_modules.svg?branch=master)](https://travis-ci.org/codetojoy/talk_maritimedevcon_java_9_modules)
-
 ### Important Dates
 
 * from what I gather from [this post](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html) by Mark Reinhold and the [JSR 376 page](https://jcp.org/en/jsr/detail?id=376)
